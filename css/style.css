@@ -1,0 +1,29 @@
+
+.item-center {
+    text-align: center;
+}
+
+.block-text{
+    background: #e9ecef;
+    color: black;
+    font-size: 24px;
+    padding: 8px;
+    margin: 16px 0;
+}
+
+.jumbotron {
+    background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 12rem 2rem !important;
+}
+
+.blog-footer{
+    text-align: center;
+    margin-top: 30px;
+    padding: 65px;
+}
+
+.blog-footer p {
+    margin-bottom: 0;
+}
